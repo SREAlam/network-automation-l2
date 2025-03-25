@@ -1,0 +1,7 @@
+/network-automation-l2
+├── config.yaml              # Device credentials/commands
+├── network_scanner.py       # Main Python script
+├── requirements.txt         # Dependencies (netmiko, pyyaml)
+├── README.md               # Documentation
+├── .gitignore              # Exclude secrets/__pycache__
+└── /output                 # Saved command outputs 
